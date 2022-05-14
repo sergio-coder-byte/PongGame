@@ -1,1 +1,3 @@
 # PongGame
+
+Algorythmics Pong Game
